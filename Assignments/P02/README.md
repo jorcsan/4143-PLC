@@ -7,7 +7,8 @@ Make sure that the image you want to edit is stored inside the image mod directo
 
 |   #   | Folder Link |  Description |
 | :---: | ----------- | ---------------------- |
-|   1   |   [go.mod] |  module file |
-|   2   |   [go.sum] | code repository|
-|   3   |   [imagemanipulator.go]  |    run a GO program                  |
-|   4   |   []()  |    run another GO program                  |
+|   1   |   [go.mod](https://github.com/jorcsan/4143-PLC/blob/main/Assignments/P02/go.mod) |  module file |
+|   2   |   [go.sum](https://github.com/jorcsan/4143-PLC/blob/main/Assignments/P02/go.sum)| code repository|
+|   3   |   [imagemanipulator.go](https://github.com/jorcsan/4143-PLC/blob/main/Assignments/P02/imageManipulator.go) |  main package        |
+|   4   |   [main.go](https://github.com/jorcsan/4143-PLC/blob/main/Assignments/P02/main.go)  |  main driver             |
+|   5   |   [mustangs_edited.png](https://github.com/jorcsan/4143-PLC/blob/main/Assignments/P02/mustangs_edited.png)  |    output                |
