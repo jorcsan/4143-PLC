@@ -9,6 +9,6 @@ Make sure that the image you want to edit is stored inside the image mod directo
 | :---: | ----------- | ---------------------- |
 |   1   |   [go.mod](https://github.com/jorcsan/4143-PLC/blob/main/Assignments/P02/go.mod) |  module file |
 |   2   |   [go.sum](https://github.com/jorcsan/4143-PLC/blob/main/Assignments/P02/go.sum)| code repository|
-|   3   |   [imagemanipulator.go](https://github.com/jorcsan/4143-PLC/blob/main/Assignments/P02/imageManipulator.go) |  main package        |
+|   3   |   [imagemanipulator.go](https://github.com/jorcsan/4143-PLC/blob/main/Assignments/P02/imageManipulator.go) |  main package |
 |   4   |   [main.go](https://github.com/jorcsan/4143-PLC/blob/main/Assignments/P02/main.go)  |  main driver             |
-|   5   |   [mustangs_edited.png](https://github.com/jorcsan/4143-PLC/blob/main/Assignments/P02/mustangs_edited.png)  |    output                |
+|   5   |   [mustangs_edited.png](https://github.com/jorcsan/4143-PLC/blob/main/Assignments/P02/mustangs_edited.png)  |    output  |
