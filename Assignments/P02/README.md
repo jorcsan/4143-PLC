@@ -7,7 +7,7 @@ Make sure that the image you want to edit is stored inside the image mod directo
 
 |   #   | Folder Link |  Description |
 | :---: | ----------- | ---------------------- |
-|   1   |   go.mod |  module file |
-|   2   |   go.sum | code repository|
-|   3   |   [P01]()  |    run a GO program                  |
-|   4   |   [P02]()  |    run another GO program                  |
+|   1   |   [go.mod] |  module file |
+|   2   |   [go.sum] | code repository|
+|   3   |   [imagemanipulator.go]  |    run a GO program                  |
+|   4   |   []()  |    run another GO program                  |
