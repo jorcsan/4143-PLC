@@ -1,3 +1,9 @@
+## Program 3
+
+
+
+
+
 |   #   | Folder Link |  Description |
 | :---: | ----------- | ---------------------- |
 |   1   |   [go.mod](https://github.com/jorcsan/4143-PLC/blob/main/Assignments/P03/go.mod) |  module file |
@@ -10,4 +16,4 @@
 
 
 
-[package](https://github.com/jorcsan/mymodule) this is a linke to the repository that holds mt Go package.
+[package](https://github.com/jorcsan/mymodule) this is a link to the repository that holds mt Go package.
