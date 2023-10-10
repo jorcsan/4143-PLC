@@ -1,5 +1,8 @@
 ## Program 3
 
+This program will use a package that i created on github. It will download an image from the internet using its URL. It will than print
+out the images RGB values.Than it will create a output file with the colored text that we desire. The last thing it will do
+is convert the file to grayscale by modifying its RGB values
 
 
 
