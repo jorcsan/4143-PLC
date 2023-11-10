@@ -9,6 +9,6 @@ for I/O-bound tasks.
 
 |   #   | Folder Link |  Description |
 | :---: | ----------- | ---------------------- |
-|   1   |   main.go |  main driver|
-|   2   |   mod.go | module file|
-|   3   |   sum.go | sum.go file|
+|   1   |   [main.go](https://github.com/jorcsan/4143-PLC/blob/main/Assignments/P04/main-2.go) |  main driver|
+|   2   |   [mod.go](https://github.com/jorcsan/4143-PLC/blob/main/Assignments/P04/go-2.mod) | module file|
+|   3   |   [sum.go](https://github.com/jorcsan/4143-PLC/blob/main/Assignments/P04/go-2.sum) | sum.go file|
